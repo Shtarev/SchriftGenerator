@@ -7,7 +7,6 @@ Die beladenen Schriften werden in Directory mit den Schriften 'font' download.
 <?php
 $anzeige = '1) Wählen Sie die Schrift, die Sie installieren wollen<br>2) Wählen Sie die Kodierung.<br>&#160;&#160;&#160;&#160;cp1251 - Für die Arbeit mit der kyrillischen Schrift<br>&#160;&#160;&#160;&#160;cp1252 - Für die Arbeit mit den lateinischen Schriften';
 $de = '';
-require('dump/dd.php');
 if (isset($_POST['enc'])){
     if (isset($_FILES['filename']) && $_FILES['filename']['name'] != ''){
         $file = $_FILES['filename']['name'];
