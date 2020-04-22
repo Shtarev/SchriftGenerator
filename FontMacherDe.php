@@ -1,5 +1,5 @@
 <!-- Andrey Shtarev || www.shtarev.com ||
-Es ist für die fpdf FPDF-Library zu verwenden.
+Es ist für die FPDF-Library zu verwenden.
 Stellen Sie diese file in Directory mit der fpdf-Bibliothe und öffnen Sie es im Browser.
 Die beladenen Schriften werden in Directory mit den Schriften 'font' download.
 -->
